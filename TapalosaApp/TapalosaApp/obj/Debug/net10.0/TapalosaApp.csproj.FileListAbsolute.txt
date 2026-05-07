@@ -1,0 +1,15 @@
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\bin\Debug\net10.0\TapalosaApp.exe
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\bin\Debug\net10.0\TapalosaApp.deps.json
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\bin\Debug\net10.0\TapalosaApp.runtimeconfig.json
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\bin\Debug\net10.0\TapalosaApp.dll
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\bin\Debug\net10.0\TapalosaApp.pdb
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.AssemblyInfoInputs.cache
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.AssemblyInfo.cs
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.csproj.CoreCompileInputs.cache
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.sourcelink.json
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.dll
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\refint\TapalosaApp.dll
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.pdb
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\TapalosaApp.genruntimeconfig.cache
+D:\semester 4\KPL TUBES\P3C2S-Repo\TapalosaApp\TapalosaApp\obj\Debug\net10.0\ref\TapalosaApp.dll
