@@ -1,0 +1,14 @@
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\TapalosaSystem.exe
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\TapalosaSystem.deps.json
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\TapalosaSystem.runtimeconfig.json
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\TapalosaSystem.dll
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\TapalosaSystem.pdb
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.AssemblyInfoInputs.cache
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.AssemblyInfo.cs
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.csproj.CoreCompileInputs.cache
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.dll
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\refint\TapalosaSystem.dll
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.pdb
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\TapalosaSystem.genruntimeconfig.cache
+c:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\ref\TapalosaSystem.dll
