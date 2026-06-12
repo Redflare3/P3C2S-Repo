@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Xtu7VM6l4XM=",
+  "dgSpecHash": "4o9FH4hdj84=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raissa\\Desktop\\Tubes KPL FIX\\TapalosaSystem\\TapalosaSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
