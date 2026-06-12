@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapalosaSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11c2d168c1953bdca5d42e70e11e3e92fc77abae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765ec148774f9ec8be52c789ab29f4e1cbbef513")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapalosaSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapalosaSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
