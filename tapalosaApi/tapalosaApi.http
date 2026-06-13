@@ -1,6 +1,0 @@
-@tapalosaApi_HostAddress = http://localhost:5049
-
-GET {{tapalosaApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
