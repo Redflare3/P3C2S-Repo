@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapalosaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb63f9b92d1de048a298d9ec8a782b5836b0f893")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91c5d5a4d1aaba253a119b2cd07e76f2cc2a561")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapalosaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapalosaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
