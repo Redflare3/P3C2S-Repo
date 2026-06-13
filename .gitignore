@@ -1,0 +1,12 @@
+# Folder Visual Studio
+.vs/
+
+# Build output
+bin/
+obj/
+
+# File konfigurasi user
+*.user
+*.suo
+*.tmp
+*.log
