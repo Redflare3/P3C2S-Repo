@@ -32,3 +32,4 @@ C:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\staticweb
 C:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\swae.build.ex.cache
 C:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\obj\Debug\net10.0\Tapalosa.B4F053E4.Up2Date
+C:\Users\Raissa\Desktop\Tubes KPL FIX\TapalosaSystem\bin\Debug\net10.0\pengajuanKpr.json

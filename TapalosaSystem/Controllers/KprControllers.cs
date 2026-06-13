@@ -78,5 +78,25 @@ namespace tapalosa.Controllers
                 return BadRequest("Role tidak valid.");
             }
         }     
+
+        [HttpDelete("pengajuankpr/{role}/{nama}/{idPengajuan}")]
+        public ActionResult DeletePengajuanKpr(string role, string nama, int idPengajuan)
+        {
+            if (role == "admin")
+            {
+                var pengajuan = pengajuanKprRepo.GetAll().Find(p => p.idPengajuan == idPengajuan);
+                if (pengajuan == null)
+                {
+                    return NotFound("Pengajuan KPR tidak ditemukan.");
+                }
+
+                pengajuanKprRepo.Remove(pengajuan);
+                return Ok();
+            }
+            else
+            {
+                return BadRequest("Hanya admin yang dapat menghapus pengajuan KPR.");
+            }
+        }
     }
 }
