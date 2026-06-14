@@ -1,6 +1,0 @@
-@TapalosaSystem_HostAddress = http://localhost:5064
-
-GET {{TapalosaSystem_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
