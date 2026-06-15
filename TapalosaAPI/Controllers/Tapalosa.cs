@@ -72,5 +72,62 @@ namespace TapalosaAPI.Controllers
 
         }
 
+        [HttpGet("rumah/{idRumah}")]
+        public ActionResult<rumah> GetByIndex(int idRumah)
+        {
+            var rumah = rumahlist.Find(r => r.idRumah == idRumah);
+
+            if (rumah == null)
+                return NotFound("Rumah tidak ditemukan");
+
+            else 
+                return Ok(rumah);
+            
+        }
+
+        [HttpPost("rumah")]
+        public ActionResult<rumah> Post(rumah addRumah)
+        {
+            if (addRumah == null)
+            {
+                return BadRequest("Data rumah yang dimasukkan tidak valid");
+            }
+
+            if (rumahlist.Any(r => r.idRumah == addRumah.idRumah))
+            {
+                return Conflict("Sudah ada rumah dengan ID yang sama");
+            }
+                
+            rumahlist.Add(addRumah);
+            return Ok(addRumah);
+        }
+
+        [HttpPut("rumah/{idRumah}")]
+        public ActionResult<rumah> Put(int idRumah, rumah updateRumah)
+        {
+            var rumah = rumahlist.Find(r => r.idRumah == idRumah);
+
+            if (rumah == null)
+            {
+                return NotFound("Rumah tidak ditemukan");
+            }
+
+            rumah.statusKetersediaan = updateRumah.statusKetersediaan;
+            return Ok(rumah);
+        }
+
+        [HttpDelete("rumah/{idRumah}")]
+        public ActionResult Delete(int idRumah)
+        {
+            var rumah = rumahlist.Find(r => r.idRumah == idRumah);
+
+            if (rumah == null)
+            {
+                return NotFound("Rumah tidak ditemukan");
+            }
+
+            rumahlist.Remove(rumah);
+            return Ok($"rumah dengan id {idRumah} berhasil dihapus");
+        }
     }
 }
