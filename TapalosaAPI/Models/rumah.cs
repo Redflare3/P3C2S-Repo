@@ -1,10 +1,10 @@
-﻿namespace TapalosaAPI.Models
+namespace TapalosaAPI.Models
 {
-    public class rumah
+    public class Rumah
     {
         public int idRumah { get; set; }
-        public string blok { get; set; }
-        public string harga { get; set; }
-        public int statusKetersediaan { get; set; }
+        public string blok { get; set; } 
+        public double harga { get; set; } 
+        public bool statusKetersediaan { get; set; }
     }
 }

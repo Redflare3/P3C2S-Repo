@@ -1,0 +1,42 @@
+[
+  {
+    "idPengajuan": 1001,
+    "idUser": 3,
+    "idRumah": 101,
+    "tanggalPengajuan": "2026-06-01",
+    "tanggalUpdate": "2026-06-04",
+    "statusPengajuan": "Diproses"
+  },
+  {
+    "idPengajuan": 1002,
+    "idUser": 4,
+    "idRumah": 102,
+    "tanggalPengajuan": "2026-06-02",
+    "tanggalUpdate": "2026-06-05",
+    "statusPengajuan": "Pending"
+  },
+  {
+    "idPengajuan": 1003,
+    "idUser": 5,
+    "idRumah": 103,
+    "tanggalPengajuan": "2026-06-03",
+    "tanggalUpdate": "2026-06-06",
+    "statusPengajuan": "Disetujui"
+  },
+  {
+    "idPengajuan": 1004,
+    "idUser": 4,
+    "idRumah": 104,
+    "tanggalPengajuan": "2026-06-04",
+    "tanggalUpdate": "2026-06-07",
+    "statusPengajuan": "Ditolak"
+  },
+  {
+    "idPengajuan": 1005,
+    "idUser": 3,
+    "idRumah": 105,
+    "tanggalPengajuan": "2026-06-05",
+    "tanggalUpdate": "2026-06-08",
+    "statusPengajuan": "Diproses"
+  }
+]
