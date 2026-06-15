@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapalosaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce43276bf1c3dabb06f26cbfb001bae1cbe5e34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd88828c8730b9813847486ddafa8ca2d44a2cea")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapalosaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapalosaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
