@@ -1,1 +1,5 @@
-
+- Nabilah Raissa Talanipa - 103022400030
+- Chris Cornelis Lukito - 103022400075
+- Muhammad Izzan Nur Faddhan - 103022400111
+- Muhammad Daffa Arifin - 103022400056
+- Muhammad Zaki - 103022400141
