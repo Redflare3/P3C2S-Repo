@@ -1,0 +1,36 @@
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.deps.json
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfoInputs.cache
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfo.cs
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.sourcelink.json
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\refint\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FIX\backend\TapalosaLibrary\obj\Debug\net10.0\ref\TapalosaLibrary.dll
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.deps.json
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfoInputs.cache
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfo.cs
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.sourcelink.json
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\refint\TapalosaLibrary.dll
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Jack\source\repos\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\ref\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.deps.json
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\bin\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfoInputs.cache
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.AssemblyInfo.cs
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.sourcelink.json
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\refint\TapalosaLibrary.dll
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\TapalosaLibrary.pdb
+C:\Users\Raissa\Documents\semester 4\Tubes KPL FINAL\backend\TapalosaLibrary\obj\Debug\net10.0\ref\TapalosaLibrary.dll
