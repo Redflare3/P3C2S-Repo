@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="backend/TapalosaLibrary/TapalosaLibrary.csproj" />
+  <Project Path="backend/TapalosaBackend/TapalosaBackend.csproj" />
+  <Project Path="cli/TapalosaCLI/TapalosaCLI.csproj" />
+  <Project Path="gui/TapalosaGUI/TapalosaGUI.csproj" />
+</Solution>
