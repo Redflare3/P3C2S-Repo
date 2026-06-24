@@ -102,7 +102,15 @@ namespace TapalosaGUI
                 return;
             }
 
-            bool success = await _apiClient.UpdateStatusKprAsync(_username, idPengajuan, status);
+            string aksi = status switch
+            {
+                "Disetujui" => "Setujui",
+                "Ditolak" => "Tolak",
+                "Dibatalkan" => "Batalkan",
+                _ => status
+            };
+
+            bool success = await _apiClient.UpdateStatusKprAsync(_username, idPengajuan, aksi);
             if (success)
             {
                 MessageBox.Show("Status pengajuan berhasil diperbarui.", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
